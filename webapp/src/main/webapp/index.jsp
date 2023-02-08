@@ -3,7 +3,7 @@
   <body>
     <table>
       <tr>
-        <td colspan="2">Login form</td>
+        <td colspan="2">My Login form</td>
       </tr>
       <tr>
         <td>Enter name</td>
